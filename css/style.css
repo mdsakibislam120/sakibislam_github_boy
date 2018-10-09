@@ -1,0 +1,22 @@
+body {
+    background-color: brown
+}
+
+h1 {
+    color: cornsilk;
+    background-color: darkgoldenrod;
+}
+
+
+
+img {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.details {
+    background-color: brown;
+}
+.fornt_color{
+    background-color: dimgrey;
+}
